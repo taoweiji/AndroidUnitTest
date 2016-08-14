@@ -1,1 +1,1 @@
-include ':app', ':1.javaunit'
+include ':app', ':1.javaunit', ':2.androidtest'
