@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/1.javaunit" />
             <option value="$PROJECT_DIR$/2.androidtest" />
+            <option value="$PROJECT_DIR$/3.robolectric" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

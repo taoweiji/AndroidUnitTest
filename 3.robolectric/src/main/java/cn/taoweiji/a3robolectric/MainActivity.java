@@ -1,4 +1,4 @@
-package cn.taoweiji.a2androidtest;
+package cn.taoweiji.a3robolectric;
 
 import android.app.Activity;
 import android.os.Bundle;
